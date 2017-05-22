@@ -14,9 +14,11 @@ You can set YOUR-PUBLIC-SERVER-FOLDER to any accessible to you public URL. You c
 
 2. Copy issues/issues.box.js and issues/flipclock.min.js to http://[YOUR-PUBLIC-SERVER-FOLDER]/js/issues/
 3. Copy issues/timer.css to http://[YOUR-PUBLIC-SERVER-FOLDER]/css/timer.css
-3. Fix issues/issues.box.js [YOUR-PUBLIC-SERVER-FOLDER] includes to your actual URL
+4. Fix issues/issues.box.js [YOUR-PUBLIC-SERVER-FOLDER] includes to your actual URL
+5. Restart httpd or redmine
 
 ## Enjoy
-
+Start timer button:
 ![Start timer button](https://image.prntscr.com/image/05373d63e6c140e28d2eb26a3ffaff8c.png)
+Working timer:
 ![Working timer](https://image.prntscr.com/image/658f7e53ace04255a3f416653f689655.png)
