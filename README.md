@@ -18,5 +18,5 @@ You can set YOUR-PUBLIC-SERVER-FOLDER to any accessible to you public URL. You c
 
 ## Enjoy
 
-!https://image.prntscr.com/image/05373d63e6c140e28d2eb26a3ffaff8c.png
-!https://image.prntscr.com/image/658f7e53ace04255a3f416653f689655.png
+![Start timer button](https://image.prntscr.com/image/05373d63e6c140e28d2eb26a3ffaff8c.png)
+![Working timer](https://image.prntscr.com/image/658f7e53ace04255a3f416653f689655.png)
